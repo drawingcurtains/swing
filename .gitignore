@@ -1,0 +1,7 @@
+*~
+*.pyc
+docs/_build/*
+uploads
+swing/conf/local/*.py
+dev.db
+swing.egg-info
